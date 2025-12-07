@@ -1,10 +1,10 @@
 # Resilient Multi-Site Enterprise WAN
 
 ## 📌 Project Overview
-This project simulates a resilient Wide Area Network (WAN) backbone connecting three major enterprise sites in Sri Lanka: **Colombo (HQ), Kandy, and Galle**. The network is engineered to ensure High Availability (HA) and continuous uptime using dynamic routing protocols.
+This project simulates a resilient Wide Area Network (WAN) backbone connecting three major enterprise sites in Sri Lanka: Colombo (HQ), Kandy, and Galle. The network is engineered to ensure High Availability (HA) and continuous uptime using dynamic routing protocols.
 
-![Network Topology](Network_Topology_Diagram.png)
-*(Note: Ensure your uploaded image name matches this link)*
+[Network Topology](Enterprise_Topology.PNG)
+
 
 ## 🛠️ Technologies & Tools
 * Simulator: Cisco Packet Tracer
