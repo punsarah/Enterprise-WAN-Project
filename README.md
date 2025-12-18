@@ -18,8 +18,4 @@ This project simulates a resilient Wide Area Network (WAN) backbone connecting t
 * Inter-Site Connectivity: Successful ping verification between end devices in Colombo, Kandy, and Galle.
 * Scalability: The OSPF design allows for easy addition of new branch sites without major reconfiguration.
 
-## 🚀 How to Run
-1.  Ensure you have **Cisco Packet Tracer** installed.
-2.  Download the `Enterprise_WAN_Backbone.pkt` file from this repository.
-3.  Open the file and observe the OSPF neighbor adjacencies form.
-4.  Use the simulation mode to test packet flow between PC0 and PC1.
+
